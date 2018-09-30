@@ -1,0 +1,28 @@
+C:\Users\visak\Desktop\IT\C#\Petrauskas_U1_17\Petrauskas_U1_17\bin\Debug\Petrauskas_U1_17.exe.config
+C:\Users\visak\Desktop\IT\C#\Petrauskas_U1_17\Petrauskas_U1_17\bin\Debug\Petrauskas_U1_17.exe
+C:\Users\visak\Desktop\IT\C#\Petrauskas_U1_17\Petrauskas_U1_17\bin\Debug\Petrauskas_U1_17.pdb
+C:\Users\visak\Desktop\IT\C#\Petrauskas_U1_17\Petrauskas_U1_17\obj\Debug\Petrauskas_U1_17.csprojAssemblyReference.cache
+C:\Users\visak\Desktop\IT\C#\Petrauskas_U1_17\Petrauskas_U1_17\obj\Debug\Petrauskas_U1_17.csproj.CoreCompileInputs.cache
+C:\Users\visak\Desktop\IT\C#\Petrauskas_U1_17\Petrauskas_U1_17\obj\Debug\Petrauskas_U1_17.exe
+C:\Users\visak\Desktop\IT\C#\Petrauskas_U1_17\Petrauskas_U1_17\obj\Debug\Petrauskas_U1_17.pdb
+C:\Users\vytpet7\Documents\Visual Studio 2017\Solutions\Petrauskas_U1_17\Petrauskas_U1_17\bin\Debug\Petrauskas_U1_17.exe.config
+C:\Users\vytpet7\Documents\Visual Studio 2017\Solutions\Petrauskas_U1_17\Petrauskas_U1_17\bin\Debug\Petrauskas_U1_17.exe
+C:\Users\vytpet7\Documents\Visual Studio 2017\Solutions\Petrauskas_U1_17\Petrauskas_U1_17\bin\Debug\Petrauskas_U1_17.pdb
+C:\Users\vytpet7\Documents\Visual Studio 2017\Solutions\Petrauskas_U1_17\Petrauskas_U1_17\obj\Debug\Petrauskas_U1_17.csprojAssemblyReference.cache
+C:\Users\vytpet7\Documents\Visual Studio 2017\Solutions\Petrauskas_U1_17\Petrauskas_U1_17\obj\Debug\Petrauskas_U1_17.csproj.CoreCompileInputs.cache
+C:\Users\vytpet7\Documents\Visual Studio 2017\Solutions\Petrauskas_U1_17\Petrauskas_U1_17\obj\Debug\Petrauskas_U1_17.exe
+C:\Users\vytpet7\Documents\Visual Studio 2017\Solutions\Petrauskas_U1_17\Petrauskas_U1_17\obj\Debug\Petrauskas_U1_17.pdb
+C:\Users\visak\Desktop\IT\C#\Petrauskas_U1_17 Laboras\Petrauskas_U1_17\bin\Debug\Petrauskas_U1_17.exe.config
+C:\Users\visak\Desktop\IT\C#\Petrauskas_U1_17 Laboras\Petrauskas_U1_17\bin\Debug\Petrauskas_U1_17.exe
+C:\Users\visak\Desktop\IT\C#\Petrauskas_U1_17 Laboras\Petrauskas_U1_17\bin\Debug\Petrauskas_U1_17.pdb
+C:\Users\visak\Desktop\IT\C#\Petrauskas_U1_17 Laboras\Petrauskas_U1_17\obj\Debug\Petrauskas_U1_17.csprojAssemblyReference.cache
+C:\Users\visak\Desktop\IT\C#\Petrauskas_U1_17 Laboras\Petrauskas_U1_17\obj\Debug\Petrauskas_U1_17.csproj.CoreCompileInputs.cache
+C:\Users\visak\Desktop\IT\C#\Petrauskas_U1_17 Laboras\Petrauskas_U1_17\obj\Debug\Petrauskas_U1_17.exe
+C:\Users\visak\Desktop\IT\C#\Petrauskas_U1_17 Laboras\Petrauskas_U1_17\obj\Debug\Petrauskas_U1_17.pdb
+C:\Users\vytpet7\OneDrive - Kaunas University of Technology\C#\Petrauskas_U1_17 Laboras\Petrauskas_U1_17\bin\Debug\Petrauskas_U1_17.exe.config
+C:\Users\vytpet7\OneDrive - Kaunas University of Technology\C#\Petrauskas_U1_17 Laboras\Petrauskas_U1_17\bin\Debug\Petrauskas_U1_17.exe
+C:\Users\vytpet7\OneDrive - Kaunas University of Technology\C#\Petrauskas_U1_17 Laboras\Petrauskas_U1_17\bin\Debug\Petrauskas_U1_17.pdb
+C:\Users\vytpet7\OneDrive - Kaunas University of Technology\C#\Petrauskas_U1_17 Laboras\Petrauskas_U1_17\obj\Debug\Petrauskas_U1_17.csprojAssemblyReference.cache
+C:\Users\vytpet7\OneDrive - Kaunas University of Technology\C#\Petrauskas_U1_17 Laboras\Petrauskas_U1_17\obj\Debug\Petrauskas_U1_17.csproj.CoreCompileInputs.cache
+C:\Users\vytpet7\OneDrive - Kaunas University of Technology\C#\Petrauskas_U1_17 Laboras\Petrauskas_U1_17\obj\Debug\Petrauskas_U1_17.exe
+C:\Users\vytpet7\OneDrive - Kaunas University of Technology\C#\Petrauskas_U1_17 Laboras\Petrauskas_U1_17\obj\Debug\Petrauskas_U1_17.pdb
